@@ -1,0 +1,1 @@
+Run Cox_Jacob_File_Gen to generate test files of various sizes(10, 100, 1000, 10000, 100000), and Cox_Jacob_Times to run quicksort on each file. The time to sort each file and the average time for each file size will be generated.
